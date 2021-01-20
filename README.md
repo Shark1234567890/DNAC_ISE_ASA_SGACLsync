@@ -89,7 +89,7 @@ An application to automatically apply SGACLs created in Cisco DNA Center and ISE
 
 
 ## License
-Provided under Cisco Sample Code License, for details see [LICENSE](./LICENSE).
+Provided under Cisco Sample Code License, for details see [LICENSE](./LICENSE.md).
 
 
 
